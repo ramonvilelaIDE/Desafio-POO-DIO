@@ -31,3 +31,7 @@ Classes que compõe o problema.
 
 ## Links úteis:
 [Repositório GitHub Camila Cavalcante (README e implementação de referência)](https://github.com/cami-la/desafio-poo-dio)
+
+[Site para criar o gitignore](https://www.toptal.com/developers/gitignore/) 
+
+- Basta inserir as IDE's como palavras-chave ( java, intellij, eclipse, VisualCodeStudio).
